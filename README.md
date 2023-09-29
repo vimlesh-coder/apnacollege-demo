@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is myFirstGitRepository
+This is myFirstGitRepository.
 Author-Vimlesh 
